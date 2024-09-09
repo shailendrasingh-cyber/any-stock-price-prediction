@@ -54,13 +54,13 @@ The app processes stock data by:
 1. **Clone the Repository:**
 
     ```bash
-    git clone https://github.com/shailendrasingh-cyber/stock-price-prediction-app.git
+    git clone https://github.com/shailendrasingh-cyber/any-stock-price-prediction.git
     ```
 
 2. **Navigate to the Project Directory:**
 
     ```bash
-    cd Any stock-price-prediction-app
+    cd any-stock-price-prediction
     ```
 
 3. **Install the Required Dependencies:**
